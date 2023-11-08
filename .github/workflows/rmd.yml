@@ -1,4 +1,4 @@
-name: Quarto RMarkdown Website Build
+name: Vanilla RMarkdown Website Build
 
 on:
   push:
@@ -16,14 +16,14 @@ jobs:
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Install Quarto
-        run: Rscript -e 'remotes::install_github("quarto-dev/quarto")'
+      - name: Install RMarkdown
+        run: Rscript -e 'install.packages("rmarkdown")'
 
       - name: Build Website
-        run: Rscript -e 'quarto::render_site()'
+        run: Rscript -e 'rmarkdown::render_site()'
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site  # Modify if your build artifacts are in a different directory
+          publish_dir: ./docs  # Modify if your build artifacts are in a different directory
