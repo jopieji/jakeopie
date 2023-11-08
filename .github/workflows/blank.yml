@@ -1,0 +1,29 @@
+name: Quarto RMarkdown Website Build
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name as needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Install Quarto
+        run: Rscript -e 'remotes::install_github("quarto-dev/quarto")'
+
+      - name: Build Website
+        run: Rscript -e 'quarto::render_site()'
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site  # Modify if your build artifacts are in a different directory
