@@ -2,6 +2,5 @@ name: "Jake Opie"
 output_dir: 'docs'
 output:
   html_document:
-    theme: darkly
+    theme: yeti
     highlight: haddock
-    css: "styles.css"
