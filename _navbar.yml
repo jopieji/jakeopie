@@ -1,0 +1,21 @@
+name: "Jake Opie"
+title: "Jake Opie"
+type: inverse
+left:
+  - text: "About me"
+    href: ./aboutme.html
+  - text: "Projects"
+    menu:
+       - text: "Footy CLI"
+         href: ./project1.html
+       - text: "CTA Train Tracker"
+         href: ./project2.html
+       - text: "Code Analysis"
+         href: ./project3.html
+       - text: "Other Projects"
+         href: ./other_projects.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/jopieji

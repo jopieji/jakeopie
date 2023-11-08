@@ -1,0 +1,21 @@
+---
+title: "Contact Me"
+output: html_document
+---
+---
+<br>
+
+### Github: [https://github.com/](https://github.com/)
+
+<br><br>
+
+### Email: jakeopie9@gmail.com
+
+<br><br>
+
+### LinkedIn: [https://www.linkedin.com/in/jake-opie-992b19218/](https://www.linkedin.com/in/jake-opie-992b19218/)
+
+<br><br>
+
+### Discord: jopie9
+

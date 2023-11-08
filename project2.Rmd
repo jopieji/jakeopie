@@ -1,0 +1,16 @@
+---
+title: "CTA Train Tracker"
+output: html_document
+---
+---
+## A web app to check train arrival times
+
+<br>
+
+### Objectives
+- #### provide a tool to check train arrivals when leaving class
+- #### practice react
+- #### test deployments with vercel
+
+<br><br><br>
+See [my repo](https://github.com/jopieji/cta-react) or [the site](https://cta-react.vercel.app/) to learn more!

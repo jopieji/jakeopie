@@ -1,0 +1,25 @@
+---
+title: "Hi, I'm Jake"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+<br>
+
+I'm a software engineer, a student, and a Chicagoan.
+---
+
+<br>
+
+### Right now, I am
+- #### finishing up school at [DePaul](https://www.depaul.edu/Pages/default.aspx)
+- #### teaching myself rust using [the book](https://doc.rust-lang.org/book/) and projects
+- #### preparing for my role as an SWE at [Climate](https://climate.com/)
+- #### plotting and scheming
+
+<br>
+
+### Resources
+- #### [Github](https://github.com/jopieji)
+- #### [LinkedIn](https://www.linkedin.com/in/jake-opie-992b19218/)

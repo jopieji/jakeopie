@@ -1,0 +1,17 @@
+---
+title: "Java Code Analysis Tool"
+output: html_document
+---
+---
+## A java code analysis tool for github repositories
+
+<br>
+
+### Objectives
+- #### class assignment
+- #### analyze my bad java code
+- #### work with a git api
+
+
+<br><br><br>
+See [my repo](https://github.com/jopieji/codeAnalysisProject) to try it out!

@@ -1,0 +1,16 @@
+---
+title: "Footy CLI"
+output: html_document
+---
+---
+## A CLI application written in rust for football fans
+
+<br>
+
+### Objectives
+- #### learn rust
+- #### make checking football scores easier and quicker
+- #### occupy time
+
+<br><br><br>
+See [my repo](https://github.com/jopieji/footy) to get it for yourself!

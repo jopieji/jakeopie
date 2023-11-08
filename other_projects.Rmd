@@ -1,0 +1,8 @@
+---
+title: "Other Projects"
+output: html_document
+---
+---
+<br>
+
+### For now, just check my [github](https://github.com/jopieji). It's a mess. Working on it.

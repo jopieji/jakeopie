@@ -1,0 +1,11 @@
+name: "Jake Opie"
+output_dir: 'docs'
+output:
+  html_document:
+    theme: flatly
+    highlight: haddock
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+    css: [custom.css, flatly.min.css]
