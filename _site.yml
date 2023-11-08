@@ -2,6 +2,6 @@ name: "Jake Opie"
 output_dir: 'docs'
 output:
   html_document:
-    theme: flatly
+    theme: darkly
     highlight: haddock
-    css: [custom.css, flatly.min.css]
+    css: "styles.css"

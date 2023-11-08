@@ -19,3 +19,7 @@ left:
 right:
   - icon: fa-github fa-lg
     href: https://github.com/jopieji
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
