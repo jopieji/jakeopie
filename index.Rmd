@@ -2,6 +2,8 @@
 title: "Hi, I'm Jake"
 output: 
   html_document:
+    includes:
+      in_header: "favicon.html"
     toc: FALSE
 ---
 

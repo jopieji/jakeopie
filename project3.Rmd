@@ -1,6 +1,9 @@
 ---
 title: "Java Code Analysis Tool"
-output: html_document
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
 ---
 ---
 ## A java code analysis tool for github repositories

@@ -1,12 +1,18 @@
 ---
 title: "CTA Train Tracker"
-output: html_document
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
 ---
 ---
 ## A web app to check train arrival times
 
 <br>
 
+:::: {style="display: flex;"}
+
+::: {style="padding: 25px;"}
 ### Objectives
 - #### provide a tool to check train arrivals when leaving class
 - #### practice react
@@ -14,3 +20,10 @@ output: html_document
 
 <br><br><br>
 See [my repo](https://github.com/jopieji/cta-react) or [the site](https://cta-react.vercel.app/) to learn more!
+:::
+
+::: {style="padding: 25px;"}
+![](./ctademo1.png){width=400}
+:::
+
+::::
