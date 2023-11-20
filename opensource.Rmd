@@ -1,11 +1,12 @@
 ---
-title: "opensource"
-author: "JakeOpie"
-date: "2023-11-20"
-output: html_document
+title: "Open Source"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
 ---
 ---
-## open source work
+## my open source work
 
 <br>
 
