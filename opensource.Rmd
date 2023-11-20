@@ -21,3 +21,4 @@ output:
 ### Projects
 - #### [jenkins](https://www.jenkins.io/)
 - #### [warnings-ng-plugin](https://github.com/jenkinsci/warnings-ng-plugin)
+- #### [codestyle](https://github.com/uhafner/codingstyle)
