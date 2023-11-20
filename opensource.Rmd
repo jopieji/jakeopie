@@ -1,0 +1,22 @@
+---
+title: "opensource"
+author: "JakeOpie"
+date: "2023-11-20"
+output: html_document
+---
+---
+## open source work
+
+<br>
+
+### Objectives
+- #### work on language skills and collaboration
+- #### contribute to software I use
+- #### pay it forward
+
+
+<br>
+
+### Projects
+- #### [jenkins](https://www.jenkins.io/)
+- #### [warnings-ng-plugin](https://github.com/jenkinsci/warnings-ng-plugin)
