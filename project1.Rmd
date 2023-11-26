@@ -24,9 +24,9 @@ See [my repo](https://github.com/jopieji/footy) to get it for yourself!
 :::
 
 ::: {style="padding: 25px;"}
-![](./footydemo1.png){width=300}
+![](./footydemo1.png){width=400}
 <br><br>
-![](./footydemo3.png){width=300}
+![](./footydemo3.png){width=400}
 :::
 
 ::::
