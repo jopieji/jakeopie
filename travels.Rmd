@@ -1,0 +1,57 @@
+---
+title: "Travels"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+---
+--- 
+
+<br>
+
+## Where I've been lately
+
+### 2023
+<div style="display: flex; flex-wrap: wrap;">
+
+<div style="flex: 1 50%;">
+- #### Tampa, Florida
+- #### Brooklyn, New York
+- #### Athens, Greece
+- #### Santorini, Greece
+</div>
+
+<div style="flex: 1 50%;">
+- #### Lake Como, Italy
+- #### Squam Lake, New Hampshire
+- #### Rome, Italy
+- #### Florence, Italy
+</div>
+
+</div>
+
+<br> 
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 2; max-width: 500px;">
+  <img src="./como.jpg" alt="Lake Como" style="width: 100%; border-radius: 8px;">
+  <p style="text-align: center; font-weight: bold;">Lake Como, near Onno</p>
+</div>
+
+<div style="flex: 2; max-width: 500px;">
+  <img src="./arno.jpg" alt="Florence, Arno River" style="width: 100%; border-radius: 8px;">
+  <p style="text-align: center; font-weight: bold;">Florence, Arno River</p>
+</div>
+
+<div style="flex: 2; max-width: 500px;">
+  <img src="./tuscany.jpg" alt="Florence, Boboli Gardens" style="width: 100%; border-radius: 8px;">
+  <p style="text-align: center; font-weight: bold;">Florence, Boboli Gardens</p>
+</div>
+
+<div style="flex: 2; max-width: 500px;">
+  <img src="./santorini.jpg" alt="Santorini, Amoudi Bay" style="width: 100%; border-radius: 8px;">
+  <p style="text-align: center; font-weight: bold;">Santorini, Amoudi Bay</p>
+</div>
+
+</div>

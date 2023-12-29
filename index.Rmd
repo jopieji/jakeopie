@@ -17,7 +17,7 @@ I'm a software engineer, a student, and a Chicagoan.
 ### Right now, I am
 - #### finishing up school at [DePaul](https://www.depaul.edu/Pages/default.aspx)
 - #### teaching myself rust using [the book](https://doc.rust-lang.org/book/) and projects
-- #### preparing for my role as an SWE at [Climate](https://climate.com/)
+- #### preparing for my role as a SWE at [Climate](https://climate.com/)
 - #### working on [open source projects](./opensource.html) however and wherever I can
 - #### plotting and scheming
 
