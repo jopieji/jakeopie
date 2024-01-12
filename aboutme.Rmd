@@ -12,7 +12,7 @@ output:
 :::: {style="display: flex;"}
 
 ::: {style="padding: 25px;"}
-### A student. Comp Sci major. Sportsman. Gamer. Software engineer. Home chef. Dancing queen. House-husband. Soccer fan. Dog lover. Concussion king. Made of metal. Coffee addict. Tired. Walking machine. Too competitive. Amateur finance expert. Eats a lot. Open to feedback, but sensitive. Momma's boy. Former donut shop employee. Biker. Passenger princess. Side sleeper. Record collector. Bad artist, not all that creative. CSS hater. Public transportation enthusiast. World traveler? Smells pretty good, usually. Number cruncher. 
+### A student. Comp Sci major. Sportsman. Gamer. Software engineer. Home chef. Dancing queen. House-husband. Soccer fan. Dog lover. Concussion king. Made of metal. Coffee addict. Tired. Walking machine. Too competitive. Amateur finance expert. Eats a lot. Open to feedback, but sensitive. Momma's boy. Donut man. Biker. Passenger princess. Side sleeper. Record collector. Bad artist, not all that creative. CSS hater. Public transportation enthusiast. World traveler? Smells pretty good, usually. Number cruncher. Inquisitive. Stubborn.
 :::
 
 ::: {style="padding: 25px;"}
