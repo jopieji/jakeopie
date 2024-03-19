@@ -16,6 +16,8 @@ left:
          href: ./other_projects.html
   - text: "Open Source"
     href: ./opensource.html
+  - text: "Coursework"
+    href: ./coursework.html
   - text: "Travels"
     href: ./travels.html
   - text: "Contact"

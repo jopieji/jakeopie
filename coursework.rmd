@@ -1,0 +1,35 @@
+---
+title: "Coursework"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    toc: FALSE
+---
+
+<br>
+
+Classes I've taken and skills I've learned.
+---
+
+<br>
+<ul>
+  <li>Distributed Systems</li>
+  <li>Computer Systems</li>
+  <li>Algorithm Design & Analysis</li>
+  <li>Data Structures</li>
+  <li>Web Assembly Lab</li>
+  <li>Discrete Math</li>
+  <li>Data Science</li>
+  <li>Compiler Design</li>
+  <li>Software Testing</li>
+  <li>Android Development</li>
+  <li>Database Systems</li>
+  <li>Web Applications</li>
+  <li>Optimized C++</li>
+  <li>Networking for Cyberphysical Systems</li>
+</ul>
+<br>
+
+\~ aside ~
+<p>I got an A- in my Android Development Class. Prof. Jost didn't like my video game I created.</p>
