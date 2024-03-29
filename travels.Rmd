@@ -26,6 +26,7 @@ output:
 - #### Squam Lake, New Hampshire
 - #### Rome, Italy
 - #### Florence, Italy
+- #### Scottsdale, Arizona
 </div>
 
 </div>
