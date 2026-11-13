@@ -9,16 +9,17 @@ output:
 
 <br>
 
-I'm a software engineer, a student, and a Chicagoan.
+I'm a software engineer, and a Chicagoan.
 ---
 
 <br>
 
 ### Right now, I am
-- #### finishing up school at [DePaul](https://www.depaul.edu/Pages/default.aspx)
-- #### teaching myself rust using [the book](https://doc.rust-lang.org/book/) and projects
-- #### preparing for my role as a SWE at [Climate](https://climate.com/)
-- #### working on [open source projects](./opensource.html) however and wherever I can
+- #### working at Bayer on digital ag
+- #### looking for interesting challenges
+- #### helping with my [mom's design business](https://www.instagram.com/jakeandluluco/?hl=en)
+- #### perfecting my rec sport skills
+- #### reading a bunch
 - #### plotting and scheming
 
 <br>
